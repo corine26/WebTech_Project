@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "User-Content Analytics Platform with Flowbite UI",
+  title: "DashboardX",
   description: "A platform for analyzing user-generated content with Flowbite UI components",
 };
 
