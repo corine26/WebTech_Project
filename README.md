@@ -64,5 +64,6 @@ Corine Dino:integrate and layout design
 Francine Ramos: Setup, documentation, testing
 Jannah Mae Jepega:gived suggestion for overall design of the website
 ●Deployed URL
-https://dashboardx-beta.vercel.app/
+VERCEL LINK: https://dashboardx-beta.vercel.app/
+GDRIVE LINK: https://drive.google.com/drive/folders/1EgSDAEOnKN-hCp8luWVQ_FodkSDm395q?usp=drive_link
 
